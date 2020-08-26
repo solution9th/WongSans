@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni003F" format="2">
+	<advance width="459"/>
+	<unicode hex="003F"/>
+	<note>
+		uni003F
+	</note>
+	<outline>
+		<contour>
+			<point x="260" y="227" type="line"/>
+			<point x="260" y="267"/>
+			<point x="280" y="316"/>
+			<point x="315" y="351"/>
+			<point x="336" y="369" type="qcurve" smooth="yes"/>
+			<point x="361" y="392"/>
+			<point x="404" y="440"/>
+			<point x="432" y="504"/>
+			<point x="432" y="552" type="qcurve" smooth="yes"/>
+			<point x="432" y="613"/>
+			<point x="379" y="697"/>
+			<point x="289" y="741"/>
+			<point x="232" y="741" type="qcurve" smooth="yes"/>
+			<point x="184" y="741"/>
+			<point x="110" y="710"/>
+			<point x="58" y="662"/>
+			<point x="25" y="609"/>
+			<point x="18" y="587" type="qcurve"/>
+			<point x="95" y="551" type="line"/>
+			<point x="105" y="579"/>
+			<point x="139" y="626"/>
+			<point x="190" y="655"/>
+			<point x="223" y="655" type="qcurve" smooth="yes"/>
+			<point x="252" y="655"/>
+			<point x="302" y="627"/>
+			<point x="333" y="577"/>
+			<point x="333" y="544" type="qcurve" smooth="yes"/>
+			<point x="333" y="498"/>
+			<point x="288" y="441"/>
+			<point x="257" y="415" type="qcurve" smooth="yes"/>
+			<point x="235" y="396"/>
+			<point x="193" y="356"/>
+			<point x="167" y="297"/>
+			<point x="167" y="248" type="qcurve" smooth="yes"/>
+			<point x="167" y="185" type="line"/>
+			<point x="260" y="185" type="line"/>
+		</contour>
+		<contour>
+			<point x="215" y="4" type="qcurve" smooth="yes"/>
+			<point x="240" y="4"/>
+			<point x="273" y="34"/>
+			<point x="273" y="58" type="qcurve" smooth="yes"/>
+			<point x="273" y="80"/>
+			<point x="240" y="111"/>
+			<point x="215" y="111" type="qcurve" smooth="yes"/>
+			<point x="189" y="111"/>
+			<point x="155" y="80"/>
+			<point x="155" y="58" type="qcurve" smooth="yes"/>
+			<point x="155" y="34"/>
+			<point x="189" y="4"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 49 values pushed */
+19 18 2 0 1 1 76 0 0 1 4 1 0 4 128 0 2 0 1 0 2 1 105 0 4 4 3 97 5 1 3 3 18 3 78 37 36 43 41 36 47 37 47 40 43 17 6 7 25 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

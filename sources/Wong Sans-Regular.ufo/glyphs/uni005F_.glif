@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni005F" format="2">
+	<advance width="607"/>
+	<unicode hex="005F"/>
+	<note>
+		uni005F
+	</note>
+	<outline>
+		<contour>
+			<point x="101" y="0" type="line"/>
+			<point x="506" y="0" type="line"/>
+			<point x="506" y="97" type="line"/>
+			<point x="101" y="97" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 21 values pushed */
+0 0 1 1 0 87 0 0 0 1 95 0 1 0 1 79 17 16 2 7 24 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */</string>
+		</dict>
+	</lib>
+</glyph>

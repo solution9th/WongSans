@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F" format="2">
+	<advance width="514"/>
+	<unicode hex="0046"/>
+	<note>
+		F
+	</note>
+	<outline>
+		<contour>
+			<point x="149" y="-1" type="line"/>
+			<point x="38" y="-1" type="line"/>
+			<point x="38" y="574" type="line"/>
+			<point x="490" y="574" type="line"/>
+			<point x="490" y="472" type="line"/>
+			<point x="149" y="472" type="line"/>
+			<point x="149" y="332" type="line"/>
+			<point x="447" y="332" type="line"/>
+			<point x="447" y="231" type="line"/>
+			<point x="149" y="231" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 32 values pushed */
+0 1 0 0 4 1 0 103 0 2 2 3 95 0 3 3 17 77 0 4 4 21 4 78 17 17 17 17 16 5 7 27 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

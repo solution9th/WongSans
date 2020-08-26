@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni00B9" format="2">
+	<advance width="270"/>
+	<unicode hex="00B9"/>
+	<note>
+		uni00B9
+	</note>
+	<outline>
+		<contour>
+			<point x="105" y="288" type="line"/>
+			<point x="192" y="288" type="line"/>
+			<point x="192" y="660" type="line"/>
+			<point x="45" y="660" type="line"/>
+			<point x="45" y="577" type="line"/>
+			<point x="105" y="577" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+28 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 14 values pushed */
+0 1 0 0 2 1 0 103 0 2 2 34 2 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 21 values pushed */
+0 2 0 2 134 0 1 0 0 1 87 0 1 1 0 95 0 0 1 0 79 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 6 values pushed */
+17 17 16 3 8 25 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>
