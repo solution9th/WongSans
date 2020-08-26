@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni005E" format="2">
+	<advance width="475"/>
+	<unicode hex="005E"/>
+	<note>
+		uni005E
+	</note>
+	<outline>
+		<contour>
+			<point x="356" y="485" type="line"/>
+			<point x="326" y="531"/>
+			<point x="265" y="622"/>
+			<point x="234" y="668" type="qcurve"/>
+			<point x="234" y="668" type="line"/>
+			<point x="204" y="622"/>
+			<point x="144" y="531"/>
+			<point x="113" y="485" type="qcurve"/>
+			<point x="173" y="485" type="line"/>
+			<point x="179" y="495"/>
+			<point x="204" y="528"/>
+			<point x="228" y="561"/>
+			<point x="234" y="571" type="qcurve"/>
+			<point x="241" y="561"/>
+			<point x="266" y="528"/>
+			<point x="291" y="495"/>
+			<point x="297" y="485" type="qcurve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 15 values pushed */
+13 5 2 0 74 1 1 0 0 118 24 16 2 7 24 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */</string>
+		</dict>
+	</lib>
+</glyph>

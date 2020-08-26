@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2018" format="2">
+	<advance width="181"/>
+	<unicode hex="2018"/>
+	<note>
+		uni2018
+	</note>
+	<outline>
+		<contour>
+			<point x="102" y="732" type="line"/>
+			<point x="80" y="716"/>
+			<point x="45" y="669"/>
+			<point x="30" y="610"/>
+			<point x="36" y="576" type="qcurve"/>
+			<point x="110" y="583" type="line"/>
+			<point x="104" y="616"/>
+			<point x="128" y="684"/>
+			<point x="150" y="708" type="qcurve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHB[ ]	/* 4 values pushed */
+5 0 1 50 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>
