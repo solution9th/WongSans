@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni002E" format="2">
+	<advance width="134"/>
+	<unicode hex="002E"/>
+	<note>
+		uni002E
+	</note>
+	<outline>
+		<contour>
+			<point x="6" y="60" type="qcurve" smooth="yes"/>
+			<point x="6" y="33"/>
+			<point x="43" y="0"/>
+			<point x="66" y="0" type="qcurve" smooth="yes"/>
+			<point x="87" y="0"/>
+			<point x="124" y="33"/>
+			<point x="124" y="60" type="qcurve" smooth="yes"/>
+			<point x="124" y="85"/>
+			<point x="87" y="120"/>
+			<point x="66" y="120" type="qcurve" smooth="yes"/>
+			<point x="43" y="120"/>
+			<point x="6" y="85"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 16 values pushed */
+0 0 0 1 97 0 1 1 21 1 78 36 34 2 7 24 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni003B" format="2">
+	<advance width="203"/>
+	<unicode hex="003B"/>
+	<note>
+		uni003B
+	</note>
+	<outline>
+		<contour>
+			<point x="65" y="295" type="qcurve" smooth="yes"/>
+			<point x="65" y="266"/>
+			<point x="105" y="231"/>
+			<point x="128" y="231" type="qcurve" smooth="yes"/>
+			<point x="152" y="231"/>
+			<point x="191" y="266"/>
+			<point x="191" y="295" type="qcurve" smooth="yes"/>
+			<point x="191" y="323"/>
+			<point x="152" y="359"/>
+			<point x="128" y="359" type="qcurve" smooth="yes"/>
+			<point x="105" y="359"/>
+			<point x="65" y="322"/>
+		</contour>
+		<contour>
+			<point x="66" y="87" type="line"/>
+			<point x="47" y="35"/>
+			<point x="8" y="-69"/>
+			<point x="-12" y="-121" type="qcurve"/>
+			<point x="88" y="-121" type="line"/>
+			<point x="110" y="-68"/>
+			<point x="153" y="35"/>
+			<point x="175" y="87" type="qcurve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 31 values pushed */
+0 0 0 1 2 0 1 105 0 2 3 3 2 87 0 2 2 3 95 0 3 2 3 79 19 18 36 34 4 7 26 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

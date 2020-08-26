@@ -1,0 +1,7 @@
+table GDEF {
+ GlyphClassDef ,# Base 
+ , # Liga 
+ [uni0308 uni0307 uni0300 uni0301 uni030B uni0302 uni030C uni0306 uni030A], # Mark 
+ ;
+ } GDEF;
+

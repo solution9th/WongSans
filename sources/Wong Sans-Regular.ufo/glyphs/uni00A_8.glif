@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni00A8" format="2">
+	<advance width="415"/>
+	<unicode hex="00A8"/>
+	<note>
+		uni00A8
+	</note>
+	<outline>
+		<contour>
+			<point x="62" y="527" type="qcurve" smooth="yes"/>
+			<point x="62" y="504"/>
+			<point x="94" y="474"/>
+			<point x="114" y="474" type="qcurve" smooth="yes"/>
+			<point x="133" y="474"/>
+			<point x="166" y="503"/>
+			<point x="166" y="526" type="qcurve" smooth="yes"/>
+			<point x="166" y="549"/>
+			<point x="133" y="580"/>
+			<point x="114" y="580" type="qcurve" smooth="yes"/>
+			<point x="94" y="580"/>
+			<point x="62" y="549"/>
+		</contour>
+		<contour>
+			<point x="249" y="527" type="qcurve" smooth="yes"/>
+			<point x="249" y="504"/>
+			<point x="282" y="474"/>
+			<point x="302" y="474" type="qcurve" smooth="yes"/>
+			<point x="320" y="474"/>
+			<point x="353" y="503"/>
+			<point x="353" y="526" type="qcurve" smooth="yes"/>
+			<point x="353" y="549"/>
+			<point x="320" y="580"/>
+			<point x="302" y="580" type="qcurve" smooth="yes"/>
+			<point x="282" y="580"/>
+			<point x="249" y="549"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 26 values pushed */
+2 1 0 1 1 0 89 2 1 0 0 1 97 3 1 1 0 1 81 36 36 36 34 4 7 26 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */</string>
+		</dict>
+	</lib>
+</glyph>

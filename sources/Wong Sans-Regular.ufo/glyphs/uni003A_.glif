@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni003A" format="2">
+	<advance width="177"/>
+	<unicode hex="003A"/>
+	<note>
+		uni003A
+	</note>
+	<outline>
+		<contour>
+			<point x="34" y="327" type="qcurve" smooth="yes"/>
+			<point x="34" y="301"/>
+			<point x="70" y="269"/>
+			<point x="91" y="269" type="qcurve" smooth="yes"/>
+			<point x="111" y="269"/>
+			<point x="147" y="301"/>
+			<point x="147" y="327" type="qcurve" smooth="yes"/>
+			<point x="147" y="352"/>
+			<point x="111" y="385"/>
+			<point x="91" y="385" type="qcurve" smooth="yes"/>
+			<point x="70" y="385"/>
+			<point x="34" y="351"/>
+		</contour>
+		<contour>
+			<point x="34" y="58" type="qcurve" smooth="yes"/>
+			<point x="34" y="32"/>
+			<point x="70" y="0"/>
+			<point x="91" y="0" type="qcurve" smooth="yes"/>
+			<point x="111" y="0"/>
+			<point x="147" y="32"/>
+			<point x="147" y="58" type="qcurve" smooth="yes"/>
+			<point x="147" y="82"/>
+			<point x="111" y="115"/>
+			<point x="91" y="115" type="qcurve" smooth="yes"/>
+			<point x="70" y="115"/>
+			<point x="34" y="82"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 26 values pushed */
+0 0 0 1 2 0 1 105 0 2 2 3 97 0 3 3 21 3 78 36 36 36 34 4 7 26 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

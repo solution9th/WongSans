@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered.loclCAT" format="2">
+	<advance width="170"/>
+	<note>
+		periodcentered.loclCAT
+	</note>
+	<outline>
+		<contour>
+			<point x="25" y="286" type="qcurve" smooth="yes"/>
+			<point x="25" y="258"/>
+			<point x="64" y="224"/>
+			<point x="87" y="224" type="qcurve" smooth="yes"/>
+			<point x="108" y="224"/>
+			<point x="147" y="258"/>
+			<point x="147" y="286" type="qcurve" smooth="yes"/>
+			<point x="147" y="312"/>
+			<point x="108" y="348"/>
+			<point x="87" y="348" type="qcurve" smooth="yes"/>
+			<point x="64" y="348"/>
+			<point x="25" y="312"/>
+		</contour>
+		<contour>
+			<point x="25" y="286" type="qcurve" smooth="yes"/>
+			<point x="25" y="258"/>
+			<point x="64" y="224"/>
+			<point x="87" y="224" type="qcurve" smooth="yes"/>
+			<point x="108" y="224"/>
+			<point x="147" y="258"/>
+			<point x="147" y="286" type="qcurve" smooth="yes"/>
+			<point x="147" y="312"/>
+			<point x="108" y="348"/>
+			<point x="87" y="348" type="qcurve" smooth="yes"/>
+			<point x="64" y="348"/>
+			<point x="25" y="312"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 26 values pushed */
+2 1 0 1 1 0 89 2 1 0 0 1 97 3 1 1 0 1 81 36 36 36 34 4 6 26 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>
