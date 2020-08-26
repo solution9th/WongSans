@@ -6,6 +6,6 @@ Similar to Josefinsans, WongSans also targeted in geometric, elegant and kind of
 
 Fontfile is located at [/fonts](https://github.com/solution9th/WongSans/tree/master/fonts)
 
-# Todo:
+# todo
 * fill in more weight and styles, eg. light, light-italic, regular-italic, bold etc.
 * bugfix for details
